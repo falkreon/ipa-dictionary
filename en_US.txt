@@ -195,70 +195,70 @@ stand	stænd
 increase	ˈɪnkɹiːs	ɪnˈkɹiːs
 early	ˈɝli
 course	kɔːɹs
-change
-help
-line
-city
-put
-close
-case
-force
-meet
-once
-water
-upon
-war
-build
-hear
-light
-unite
-live
-every
-country
-bring
-center
-let
-side
-try
-provide
-continue
-name
-certain
-power
-pay
-result
-question
-study
-woman
-member
-until
-far
-night
-always
-service
-away
-report
-something
-company
-week
-church
-toward
-start
-social
-room
-figure
-nature
-though
-young
-less
-enough
-almost
-read
-include
-president
-nothing
-yet
-better
+change	t͡ʃeɪnd͡ʒ
+help	hɛlp
+line	laɪn
+city	ˈsɪti
+put	pʊt
+close	kloʊz	kloʊs
+case	keɪs
+force	fɔɹs
+meet	miːt
+once	wʌn(t)s
+water	ˈwɔtɚ
+upon	əˈpɒn
+war	wɔɹ
+build	bɪld
+hear	hɪɹ
+light	laɪt
+unite	juˈnaɪt
+live	lɪv	laɪv
+every	ˈɛv.(ə).ɹi
+country	ˈkʌntɹi
+bring	ˈbɹɪŋ
+center	ˈsɛn.tɚ
+let	lɛt
+side	saɪd
+try	tɹaɪ
+provide	pɹəˈvaɪd
+continue	kənˈtɪnjuː
+name	neɪm
+certain	ˈsɝtn̩
+power	ˈpaʊ.ɚ
+pay	peɪ
+result	ɹɪˈzʌlt
+question	ˈkwɛst͡ʃən
+study	ˈstʌdi
+woman	ˈwʊmən
+member	ˈmɛmbɚ
+until	ʌnˈtɪl
+far	fɑɹ
+night	naɪt
+always	ˈɔl.weɪz
+service	ˈsɝvɪs
+away	əˈweɪ
+report	ɹɪˈpɔɹt
+something	ˈsʌmθɪŋ
+company	ˈkʌmpəni
+week	wiːk
+church	t͡ʃɝt͡ʃ
+toward	twɔɹd
+start	stɑɹt
+social	səʊʃl̩
+room	ɹuːm
+figure	ˈfɪɡjɚ
+nature	ˈneɪtʃɚ
+though	ðoʊ
+young	jʌŋ
+less	lɛs
+enough	ɪˈnʌf
+almost	ˈɔl.moʊst
+read	ɹiːd	ɹɛd
+include	ɪnˈkluːd
+president	ˈpɹɛzɨdənt
+nothing	ˈnʌθɪŋ
+yet	jɛt
+better	'bɛɾɚ
 big
 boy
 cost
