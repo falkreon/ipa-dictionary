@@ -259,50 +259,50 @@ president	ˈpɹɛzɨdənt
 nothing	ˈnʌθɪŋ
 yet	jɛt
 better	'bɛɾɚ
-big
-boy
-cost
-business
-value
-second
-why
-clear
-expect
-family
-complete
-act
-sense
-mind
-experience
-art
-next
-near
-direct
-car
-law
-industry
-important
-girl
-god
-several
-matter
-usual
-rather
-per
-often
-kind
-among
-white
-reason
-action
-return
-foot
-care
-simple
-within
-love
-human
-along
+big	bɪɡ
+boy	bɔɪ
+cost	ˈkɔst
+business	ˈbɪznɪs
+value	ˈvælju
+second	ˈsɛk.(ə)nd
+why	ʍaɪ
+clear	klɪɚ
+expect	ɛkˈspɛkt
+family	ˈfæmli
+complete	kəmˈpliːt
+act	ækt
+sense	sɛn(t)s
+mind	maɪnd
+experience	ɪkˈspɪɹ.i.əns
+art	ɑɹt
+next	nɛkst
+near	nɪɹ
+direct	dɪˈɹɛkt
+car	kɑɹ
+law	lɔ
+industry	ˈɪndəstɹi
+important	ɪmˈpɔɹtənt
+girl	ɡɝl
+god	ɡɑːd
+several	ˈsɛv(ə)ɹəl
+matter	ˈmæɾɚ
+usual	ˈjuːʒuəl
+rather	ˈɹæðɚ
+per	pɝ
+often	ˈɔfn̩
+kind	kaɪnd
+among	əˈmʌŋ
+white	waɪt
+reason	ˈɹiːzən
+action	ˈæk.ʃən
+return	ɹɪˈtɝn
+foot	fʊt
+care	keəɻ
+simple	ˈsɪmpəl
+within	wɪðˈɪn
+love	lʌv
+human	ˈ(h)jumən
+along	əˈlɔŋ
 appear
 doctor
 believe
